@@ -12,6 +12,6 @@ Este projeto foi desenvolvido como parte dos meus estudos em análise de dados, 
 - Montar um projeto de portfólio para apresentar no GitHub e no LinkedIn
 ## Ferramentas utilizadas
  
-- **Excel** — organização inicial e planilha base dos dados
-- **Python (pandas)** — limpeza, tratamento e preparação dos dados
-- **Power BI** — modelagem, criação de medidas (DAX) e construção do dashboard
+- **Excel** - organização inicial e planilha base dos dados
+- **Python (pandas)** - limpeza, tratamento e preparação dos dados
+- **Power BI** - modelagem, criação de medidas (DAX) e construção do dashboard
