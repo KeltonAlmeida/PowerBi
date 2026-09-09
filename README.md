@@ -1,4 +1,4 @@
-# Dashboard de Vendas — Power BI
+# Dashboard de Vendas - Power BI
  
 Projeto de estudo em análise de dados, com foco na construção de um dashboard de vendas interativo utilizando **Power BI**, com apoio de **Excel** e **Python (pandas)** para tratamento e preparação dos dados.
  
