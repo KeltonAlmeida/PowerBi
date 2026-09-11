@@ -1,30 +1,42 @@
-# Dashboard de Vendas - Excel
+# Dashboard de Vendas - Power BI
 
-Meu primeiro projeto de Dashboard desenvolvido no Microsoft Excel, criado com o objetivo de praticar análise de dados, visualização de informações e construção de indicadores de desempenho.
+Projeto desenvolvido com foco em Análise de Dados e Business Intelligence, utilizando Power BI para transformar dados de vendas em informações estratégicas e visualmente intuitivas.
 
 ## Sobre o Projeto
 
-Este dashboard foi desenvolvido como parte dos meus estudos em Análise de Dados e Business Intelligence. Utilizando recursos do Excel, transformei uma base de dados em visualizações que facilitam o acompanhamento dos resultados de vendas e apoiam a tomada de decisões.
+Este dashboard foi criado como parte da minha jornada de aprendizado em Análise de Dados, com o objetivo de aplicar conceitos de tratamento, modelagem e visualização de dados em um cenário de vendas.
+
+Por meio deste projeto, busquei desenvolver habilidades práticas em preparação de dados, criação de indicadores de desempenho (KPIs) e construção de dashboards interativos para apoio à tomada de decisões.
 
 ## Objetivos
 
-* Aprimorar conhecimentos em Excel;
-* Praticar análise e organização de dados;
-* Criar indicadores de desempenho (KPIs);
-* Desenvolver dashboards interativos;
-* Construir projetos para meu portfólio profissional.
+* Realizar a coleta, limpeza e transformação de dados;
+* Aplicar técnicas de análise e visualização de dados;
+* Desenvolver dashboards interativos e intuitivos;
+* Utilizar medidas e cálculos com DAX no Power BI;
+* Fortalecer meu portfólio de projetos na área de Dados e Business Intelligence.
 
 ## Ferramentas Utilizadas
 
-* **Microsoft Excel**
+### Excel
 
-  * Tabelas Dinâmicas
-  * Segmentação de Dados
-  * Gráficos Dinâmicos
-  * Fórmulas e Funções
-  * Formatação Condicional
+* Organização e estruturação inicial da base de dados;
+* Validação e análise preliminar das informações.
 
-## Indicadores Apresentados
+### Python (Pandas)
+
+* Limpeza e tratamento dos dados;
+* Padronização de informações;
+* Preparação dos dados para análise.
+
+### Power BI
+
+* Modelagem de dados;
+* Criação de medidas e indicadores com DAX;
+* Desenvolvimento do dashboard interativo;
+* Construção de visualizações para análise de desempenho de vendas.
+
+## Principais Indicadores
 
 * Faturamento Total
 * Quantidade de Vendas
@@ -32,20 +44,25 @@ Este dashboard foi desenvolvido como parte dos meus estudos em Análise de Dados
 * Vendas por Categoria
 * Vendas por Período
 * Ranking de Produtos
+* Desempenho por Região
 
-## Habilidades Desenvolvidas
+## Competências Desenvolvidas
 
-* Excel para Análise de Dados
-* Tratamento e Organização de Dados
-* Criação de Dashboards
+* Análise de Dados
+* Business Intelligence (BI)
+* Power BI
+* DAX
+* Excel Avançado
+* Python (Pandas)
+* Modelagem de Dados
 * Visualização de Dados
-* Business Intelligence
+* Tomada de Decisão Baseada em Dados
 
 ## Autor
 
 **Kelton Almeida**
 
-Graduando em Sistemas de Informação, com interesse em Análise de Dados, Business Intelligence, Banco de Dados e Tecnologia da Informação.
+Graduando em Sistemas de Informação, com interesse em Análise de Dados, Business Intelligence, Banco de Dados e Segurança da Informação.
 
 📧 [fsakelton@gmail.com](mailto:fsakelton@gmail.com)
 💼 linkedin.com/in/keltonalmeida
